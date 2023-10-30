@@ -32,4 +32,5 @@ The "Brain Tumor Detection with MobileNetV3Small using TensorFlow" project has t
 3. Reducing the time and human resources required for accurate tumor detection.
 4. Improving patient outcomes by enabling timely medical interventions.
 5. Supporting medical research and the development of more targeted treatments for brain tumors.
+   
 By combining advanced deep learning techniques with the power of TensorFlow and the efficiency of the MobileNetV3Small architecture, our project offers a promising solution to a critical healthcare challenge, ultimately contributing to better patient care and outcomes in the field of neurology and oncology.
